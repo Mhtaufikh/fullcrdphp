@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.li-gaya:hover {
+  background-color: tomato;
+  transition: 0.5s ease-in-out;
+  transition-delay: 0.2s;
+  border-radius: 8px;
+}
+
+.text:hover {
+  background-color: rgb(255, 251, 34);
+  transition: 0.5s ease-in-out;
+  transition-delay: 0.2s;
+  border-radius: 20px;
+  weight: 100px;
+}
+
+.h1-user {
+  font-size: 30px;
+  color: rgb(35, 125, 228);
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
