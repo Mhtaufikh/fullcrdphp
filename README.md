@@ -3,8 +3,8 @@
 User sistem
 -admin
 -user calon mahasiswa
--user panitia mahasiswa
+-user panitia rekrutmen
 
-lebih ke arah programmer 
+lebih ke arah pendaftaran berbasis web
 # mtchcrd
 
